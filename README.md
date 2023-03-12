@@ -3,6 +3,6 @@ Script created with the purpose of developing a predictive algorithm capable of 
 
 Part of the data used steamed from previous researches supervised by Dr Luydson Vasconcelos and Dr Patricia Moura. 
 
-The crew responsible for treating the data and developing the algorithm based on Machine Learning models were the co-supervisor Dr Joao Pacifico and PhD student Joao Victor Farias. The main project was done under supervision of Dr Patricia Moura and co-supervised by Dr Luydson Vasconcelos. 
+The crew responsible for treating the data and developing the algorithm based on Machine Learning models were the **co-supervisor Dr Joao Pacifico** and PhD **student Joao Victor Farias**. The main project was done under **supervision of Dr Patricia Moura and co-supervised by Dr Luydson Vasconcelos**. 
 
-This data was used in the PhD thesis titled "Machine Learning techniques for prediction of risk to develop hepatocellular carcinoma in patients infected with the hepatitis C virus". The PhD student was enrolled at the PhD program Celullar and Molecular Biology at the University of Pernambuco. 
+This data was used in the PhD thesis titled _"Machine Learning techniques for prediction of risk to develop hepatocellular carcinoma in patients infected with the hepatitis C virus"_. The PhD student was enrolled at the PhD program _Celullar and Molecular Biology_ at the **University of Pernambuco**. 
